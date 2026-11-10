@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChronoStudy</string>
+    <string name="widget_description">Pomodoro timer controls and upcoming study tasks</string>
+    <string name="widget_schedule_description">Today study schedule and pending task checklist</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "ChronoStudy",
+  "description": "Comprehensive study companion featuring Pomodoro timer, task manager with reminders, interactive timetable with device calendar sync, rich analytics, and home screen widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
